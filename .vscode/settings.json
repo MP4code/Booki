@@ -1,0 +1,10 @@
+{
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.wordWrapColumn": 80
+    },
+    "[css][scss][less]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+    }
+  }
+  
